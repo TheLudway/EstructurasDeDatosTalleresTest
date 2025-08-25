@@ -7,8 +7,8 @@ En este repositorio se almacena todos los códigos de los tests y talleres que s
 
 - Semestre: 2025-2S.
 - Aula: PB M26 Aula 5.
-- Profesor: Ixent Galpin.
-- Monitor: Ludwig Alvarado.
+- Profesor: Ixent Galpin. (ixent.galpin@utadeo.edu.co)
+- Monitor: Ludwig Alvarado. (ludwigalvaradob@utadeo.edu.co)
 
 ## Estructura del Repositorio
 
